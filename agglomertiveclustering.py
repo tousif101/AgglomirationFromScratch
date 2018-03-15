@@ -1,7 +1,5 @@
 """
 Author: Tousif Chowdhury
-Help: From Siddhartha Nutulapati with the logic to merge the two clusters, but specifcially with the
-      bigger cluster and smaller cluster. It helps take out duplicates in the list.
 
 Description: Performs Agglomerative Clustering on datasets
 """
